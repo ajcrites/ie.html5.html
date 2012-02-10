@@ -1,3 +1,7 @@
+Author: Explosion Pills
+Webzone: http://explosion-pills.com
+Email: explosion-pills@aysites.com
+
 The purpose of html5.ie.html is to provide a small html snippet that lets all HTML5 elements
 work properly in versions of MSIE before IE9 (IE9 tends to support these).  In addition,
 it applies basic styles based on the Webkit user agent stylesheet.
