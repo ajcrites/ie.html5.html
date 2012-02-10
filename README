@@ -1,0 +1,6 @@
+The purpose of html5.ie.html is to provide a small html snippet that lets all HTML5 elements
+work properly in versions of MSIE before IE9 (IE9 tends to support these).  In addition,
+it applies basic styles based on the Webkit user agent stylesheet.
+The "style" and "script" can also be added to separate CSS and JavaScript files, respectively.
+To use, simply put this html snippet anywhere in your html (but preferably in the head).
+CSS and JavaScript files are also provided.  Include these in your html normally.

@@ -1,0 +1,1 @@
+a='article aside bdi command details figure figcaption footer header hgroup mark meter nav progress ruby rt rp section time wbr audio embed video source track canvas datalist keygen output summary'.split(' ');for(b in a)document.createElement(a[b])
